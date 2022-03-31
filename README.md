@@ -16,7 +16,7 @@ A simple lunch bot
       - git clone 
       - unzip the clone file and navigate to the file
       - Open the file in the terminal
-      - 
+      
   -Open tbe project on your desired editor
    
  ## Language used
