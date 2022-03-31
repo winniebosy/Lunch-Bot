@@ -22,4 +22,6 @@ A simple lunch bot
  ## Language used
   - Python (v 3.9)
  
- 
+ ## Sample
+ ![Capture](https://user-images.githubusercontent.com/40880690/161043909-17aba418-1122-4c30-8bff-389285353195.PNG)
+
